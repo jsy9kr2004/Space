@@ -1,0 +1,106 @@
+linux grep, less, head, tail
+https://jupiny.com/2017/07/09/linux-command-1-grep-less-head-tail/
+
+
+linux head
+http://www.incodom.kr/Linux/%EA%B8%B0%EB%B3%B8%EB%AA%85%EB%A0%B9%EC%96%B4/head
+
+
+linux cut, sort, uniq, wc
+https://jupiny.com/2017/07/09/linux-command-4-cut-sort-uniq-wc/
+
+
+sh string
+https://jybaek.tistory.com/490
+
+
+Boost application performance using asynchronous I/O
+https://www.ibm.com/developerworks/library/l-async/
+
+
+linux dd
+https://big-sun.tistory.com/45
+
+
+getrlimit
+https://www.joinc.co.kr/w/man/2/setrlimit
+
+
+patch
+https://pinocc.tistory.com/30
+
+
+bash sed
+http://bahndal.egloos.com/431802
+
+
+shell loop control
+https://www.tutorialspoint.com/unix/unix-loop-control.htm
+
+
+shell array
+https://ktdsoss.tistory.com/125
+
+
+shell array
+http://blog.redjini.com/281
+
+
+linux grep, erep, fgrep
+https://geundi.tistory.com/113
+
+
+linux awk
+http://www.incodom.kr/Linux/%EA%B8%B0%EB%B3%B8%EB%AA%85%EB%A0%B9%EC%96%B4/awk
+
+
+split a file into two files at a given line
+https://superuser.com/questions/624237/split-a-file-into-two-files-at-a-given-line
+
+
+bash grep
+http://bahndal.egloos.com/418681
+
+
+bash uniq
+http://bahndal.egloos.com/576672
+
+
+shell parameter
+https://jink1982.tistory.com/36
+
+
+shell grep
+http://egloos.zum.com/tael/v/3836718
+
+
+bash line read
+https://kldp.org/node/23749
+
+
+ib_umad module?
+https://lists.freebsd.org/pipermail/freebsd-infiniband/2014-September/000115.html
+
+
+c++ linker cannot find -lcrypto, but the library is in thre path
+https://stackoverflow.com/questions/19406024/c-linker-cannot-find-lcrypto-but-the-library-is-in-the-path
+
+
+simple hash map (hash Table) implementation in c++
+https://medium.com/@aozturk/simple-hash-map-hash-table-implementation-in-c-931965904250
+
+
+How to convert a std::string to const char* or char*?
+https://stackoverflow.com/questions/347949/how-to-convert-a-stdstring-to-const-char-or-char
+
+
+sudo user add
+https://firstboos.tistory.com/entry/sudo-user-%EC%B6%94%EA%B0%80
+
+
+linux find
+https://ngee.tistory.com/83
+
+
+vim change
+https://kldp.org/node/74138
